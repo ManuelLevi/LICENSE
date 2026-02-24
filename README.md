@@ -1,4 +1,4 @@
-# EAI License v1.0 (2026)
+# EAI License v1.1 (2026)
 
 Copyright (C) 2026 Manuel Levi & Enlightenment.AI
 
@@ -41,6 +41,6 @@ Entities exceeding the 1kg gold threshold must contact the Authors to obtain a s
 
 ## Versioning
 
-This is **EAI License v1.0 (2026)**.
+This is **EAI License v1.1 (2026)**.
 
 Future revisions, if any, will be versioned explicitly.
